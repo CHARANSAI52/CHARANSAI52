@@ -25,7 +25,7 @@
  <img alt="Deep Learning" src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=deep-learning&logoColor=white" height="25px"/> 
  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="25px"/>
  <img alt="NLP" src="https://img.shields.io/badge/NLP-00BFFF?style=for-the-badge&logo=nlp&logoColor=white" height="25px"/>
-  <img alt="Flask" src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=deep-learning&logoColor=white" height="25px"/> 
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-FF6F00?style=for-the-badge&logo=Flask&logoColor=white" height="25px"/> 
 </p>
 
 
