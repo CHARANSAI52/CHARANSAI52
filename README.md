@@ -21,6 +21,10 @@
 <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
+ <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge&logo=machine-learning&logoColor=white" height="25px"/> 
+ <img alt="Deep Learning" src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=deep-learning&logoColor=white" height="25px"/> 
+ <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="25px"/>
+ <img alt="NLP" src="https://img.shields.io/badge/NLP-00BFFF?style=for-the-badge&logo=nlp&logoColor=white" height="25px"/>
 </p>
 
 
