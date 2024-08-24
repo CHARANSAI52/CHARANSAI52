@@ -3,7 +3,7 @@
 - My name is PUPPALA CHARAN SAI.
 - You can find me on GitHub as CHARANSAI52 https://github.com/CHARANSAI52.
 ## Interests
-- 👀 I’m interested in finding new solutions to the peoblems.
+- 👀 I’m interested in finding new solutions to the problems.
 ## Learning
 - 🌱 I’m currently looking deep to learn artificial intelligence and expert in machine learning.
 
